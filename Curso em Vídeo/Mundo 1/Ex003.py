@@ -1,0 +1,8 @@
+nome = input('Digite algo: ')
+print('O tipo desse numero é : ', type(nome))
+print('Só tem espaços ? {}'.format(nome.isspace()))
+print('É um número ? {}'.format(nome.isnumeric()))
+print('É alfabetico ? {}'.format(nome.isalpha()))
+print('Está em maiuscula ? {}'.format(nome.isupper()))
+print('Está em minuscula ? {}'.format(nome.islower()))
+print('Está em caps ? {} '.format(nome.istitle()))
