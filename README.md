@@ -1,2 +1,2 @@
-# Curso de Python
- Curso de Python - Curso em Vídeo
+# Cursos de Python
+ Curso de Python - Curso em Vídeo - Concursera USP
