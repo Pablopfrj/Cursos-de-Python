@@ -1,9 +1,7 @@
-import random
-import numpy as np
+from random import randint
 
-cont = num = 0
-while cont <= 5:
-    num = np.random.randint(1, 10, (1, 5))
-    cont += 1
-n1 = num
-print(n1)
+num = (randint(1,11),randint(1,11),randint(1,11),randint(1,11),
+       randint(1,11),randint(1,11))
+print(f'Eu sortei os números {num}')
+print(f'O maior número é {max(num)}.')
+print(f'O menor numeros é {min(num)}.')
