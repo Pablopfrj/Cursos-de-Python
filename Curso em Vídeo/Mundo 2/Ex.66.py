@@ -10,4 +10,4 @@ while True:
     if n == 999:
         break
 print('Acabou!!!')
-print('O resultado da soma é {} e foi adiconado {} números.'.format(y, cont))
+print('O resultado da soma é {} e foi adicionado {} números.'.format(y, cont))
