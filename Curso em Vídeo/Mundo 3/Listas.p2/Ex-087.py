@@ -1,5 +1,5 @@
 matriz = [[0,0,0],[0,0,0],[0,0,0]]
-valor = soma_par = soma_terceira = mai = men = 0
+soma_par = soma_terceira = mai = men = 0
 
 for l in range(0,3):
   for c in range(0,3):
