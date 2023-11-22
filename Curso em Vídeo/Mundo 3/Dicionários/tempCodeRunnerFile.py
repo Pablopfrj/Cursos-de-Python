@@ -1,0 +1,1 @@
+print( jogador, 'gols': gols, 'total' : len(gols))
